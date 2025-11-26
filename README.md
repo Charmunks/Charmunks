@@ -6,7 +6,7 @@ I currently work as a software engineer on the clubs team at [Hack Club](https:/
 ### Personal
 - Currently developing [Spaces](https://github.com/hackclub/spaces-new): a webapp for accessing cloud development environments in browser. 
 - I have published a reverse-dropshipping firefox extension called [dropheus](https://addons.mozilla.org/en-US/firefox/addon/dropheus/).
-- My favorite framework is Svelte.
+- My favorite web framework is Svelte.
 
 
 ![Charmunk's Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) <br>
