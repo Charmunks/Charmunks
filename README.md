@@ -14,5 +14,5 @@ I currently work as a software engineer on the clubs team at [Hack Club](https:/
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,docker,express,git,html,js,linux,nginx,nodejs,postgres,python,svelte,gamemakerstudio,lua)](https://ivie.codes)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,svelte,bash,linux,docker,git,nginx,postgres,python,gamemakerstudio,lua)](https://ivie.codes)
 
