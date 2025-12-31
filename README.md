@@ -4,7 +4,7 @@
 I currently work as a software engineer on the clubs team at [Hack Club](https://hackclub.com/team/), helping teenagers start coding clubs at their schools.
 
 ### Personal
-- Currently developing [YAFS](https://github.com/charmunks/yafs): A easy to use WebUI for managing and sharing files
+- Currently developing [YAFS](https://github.com/charmunks/yafs): A WebUI for managing and sharing files.
 - I have published a reverse-dropshipping firefox extension called [dropheus](https://addons.mozilla.org/en-US/firefox/addon/dropheus/).
 - My favorite web framework is Svelte.
 
