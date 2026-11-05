@@ -3,7 +3,7 @@
 ### Personal
 - Created [YAFS](https://github.com/charmunks/yafs): A WebUI for managing and sharing files.
 - I have published a reverse-dropshipping firefox extension called [dropheus](https://addons.mozilla.org/en-US/firefox/addon/dropheus/).
-- My favorite web framework is [Svelte](https://svelte.dev.
+- My favorite web framework is [Svelte](https://svelte.dev).
 
 
 ![Charmunk's Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) <br>
